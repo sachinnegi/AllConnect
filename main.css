@@ -1,0 +1,39 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    font-family: Rakkas;
+    
+    background: url(macbook-half\ light.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.buffer{
+    height: 25rem;
+}
+.buffer2{
+    height: 50px;
+}
+hr{
+    border-color: #be1ef8;
+    border-width:3px;
+    max-width: 65px;
+}
+.btn-primary{
+    font-size: 20px;
+    background-color: #be1ef8;
+    border : #be1ef8 solid 1px;
+    border-radius: 200px;
+}
+.btn-primary:hover{
+    border-width: 3px;
+    background-color: #be1ef8;
+    border-color:  #be1ef8;
+}
+.tag{
+    color :#008311;
+    width: 100%;
+}
